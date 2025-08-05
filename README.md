@@ -5,9 +5,8 @@ This repository contains load testing scripts and test plans created using **Apa
 
 ## 📂 Contents
 
-- `FILE UPLOAD API.jmx` — JMeter test plan for file upload endpoint
+- `VARIOUS API.jmx` — JMeter test plan for various endpoint
 - `README.md` — Project overview and usage instructions
-- `results/` (optional) — Directory for storing `.jtl` result logs
 
 ## 🚀 Features
 
